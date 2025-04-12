@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm chukwuka success</h1>
-<h3 align="center">A passionate Mobile app developer from Nigeria</h3>
+<h3 align="center">A passionate Frontend developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehovah-son&label=Profile%20views&color=0e75b6&style=flat" alt="jehovah-son" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maxgadget813" target="blank"><img src="https://img.shields.io/twitter/follow/maxgadget813?logo=twitter&style=for-the-badge" alt="maxgadget813" /></a> </p>
 
-- 🔭 I’m currently working on **E commerce app**
+- 🔭 I’m currently working on **becoming a pro full stack developer**
 
-- 🌱 I’m currently learning **Flutter(dart)**
+- 👯 I’m looking to collaborate on **Project that will level up my web development skill**
 
-- 👯 I’m looking to collaborate on **Project that will level up my mobile development skill**
-
-- 💬 Ask me about **Android**
+- 💬 Ask me about **UI and Functionality**
 
 - 📫 How to reach me **chukwukasuccess0@gmail.com**
 
