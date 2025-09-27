@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehovah-son&label=Profile%20views&color=0e75b6&style=flat" alt="jehovah-son" /> </p>
 
-<p align="left"> <a href="https://twitter.com/maxgadget813" target="blank"><img src="https://img.shields.io/twitter/follow/maxgadget813?logo=twitter&style=for-the-badge" alt="maxgadget813" /></a> </p>
+<p align="left"> <a href="https://twitter.com/maxgadget813" target="blank"><img src="https://img.shields.io/twitter/follow/maxgadget813?logo=twitter&style=for-the-badge" alt="maxnextjs" /></a> </p>
 
 - 🔭 I’m currently working on **becoming a pro full stack developer**
 
